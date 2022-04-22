@@ -1,12 +1,12 @@
 import { Layout } from 'antd';
 import 'antd/dist/antd.css';
 import styles from './thisPost.module.css'
-import { Tag, Breadcrumb } from 'antd';
+import { Breadcrumb } from 'antd';
 import {BarsOutlined, HomeOutlined} from "@ant-design/icons"
 import HeaderLayout from '../../_layouts/Header/Header';
 import Tags from '../../_layouts/Tags/Tags';
 
-const {Header, Content} = Layout
+const {Content} = Layout
 
 function ThisPost({post}) {
     return ( 

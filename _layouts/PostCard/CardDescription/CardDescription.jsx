@@ -1,4 +1,3 @@
-import { Tag } from 'antd'
 import Tags from '../../Tags/Tags';
 import styles from './CardDescription.module.css'
 

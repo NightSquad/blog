@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import Link from 'next/link'
 import { useState } from 'react'
 import styles from '../styles/Home.module.css'
 import Post from '../_layouts/PostCard/post'

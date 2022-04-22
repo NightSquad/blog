@@ -1,11 +1,7 @@
 import Head from 'next/head'
-import Link from 'next/link'
-import { useState } from 'react'
 import styles from '../styles/Home.module.css'
-import Post from '../_layouts/PostCard/post'
-import Search from '../_layouts/search/search'
-import { Layout, Pagination } from 'antd'
-import { Content, Footer, Header } from 'antd/lib/layout/layout'
+import { Layout } from 'antd'
+import { Content, Footer} from 'antd/lib/layout/layout'
 import HeaderLayout from '../_layouts/Header/Header'
 
 export default function Home() {

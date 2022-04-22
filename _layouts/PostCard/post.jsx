@@ -1,7 +1,7 @@
 import styles from './Post.module.css'
 import Link from 'next/link'
 import 'antd/dist/antd.css';
-import {Card, Tag} from 'antd'
+import {Card} from 'antd'
 import blankImg from '../../images/blankPicture.png'
 import CardDescription from './CardDescription/CardDescription';
 

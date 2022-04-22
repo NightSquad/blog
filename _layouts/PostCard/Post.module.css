@@ -1,0 +1,19 @@
+.post {
+    max-width: 496px;
+    margin-top: 15px !important;
+}
+
+.post img {
+    margin: 0 auto;
+    width: 250px;
+}
+
+.title {
+    color: black;
+    white-space: normal;
+}
+
+.title:hover {
+    text-decoration: underline;
+    color:black;
+}
